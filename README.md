@@ -11,7 +11,7 @@ d'une machine Linux et générer des alertes si un seuil est dépassé.
 
 ## Utilisation
 
-# Rendre le script exécutable
+# Rendre le script exécutable 
 chmod +x monitoring.sh
 
 # Lancer le monitoring
